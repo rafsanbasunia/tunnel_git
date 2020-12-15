@@ -2,7 +2,7 @@ name: Ubuntu_shell
 on: 
   workflow_dispatch:
 defaults:
-  run: |
+  run:
     shell: bash
 jobs:
   build:
