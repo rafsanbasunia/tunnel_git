@@ -7,6 +7,7 @@ defaults:
 	   sudo snap install ngrok
 	   sudo add-apt-repository ppa:qbittorrent-team/qbittorrent-stable
 	   sudo apt-get install qbittorrent-nox
+	   qbittorrent-nox -y
     shell: bash
 
 jobs:
